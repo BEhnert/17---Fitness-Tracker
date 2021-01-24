@@ -16,22 +16,23 @@
   ### Installation
     None needed, deployed on Heroku, simply click on this link - 
 
-      https://evening-ravine-10572.herokuapp.com/
+      https://young-tor-03929.herokuapp.com/
       
   ### Usage
-    After navigating to home page, click on 'Get Started'
-    Add a Note Title and a Note Text, then click the Save icon in the upper right of page
-    The Note Title should be added to the left side of pane with a Delete icon to right of it
-    Add new note by repeating above 2 steps
-    To view a note, click on Note Title in left pane list and the Note Title and Note Text will display
-    To create a new Note, click on the Write (pencil) icon in top right of page
-    To delete a Note, simply click the Delete icon next to the Note Title in left pane list
+    After navigating to home page, click on 'Continue Workout' or 'New Workout' (New for first usage)
+    Pick whether Resistance or Cardio, then fill in the required fields
+    Once all filled, click on 'Complete' or 'Add Exercise'
+    Complete will bring back to show summary of that Workout in total
+    Add Exercise will allow you to choose and input another Resistance or Cardio exercise
+
+    In the top left, click on Dashboard to view Charts showing the Workout
+    To get back to main page, click on Fitness Tracker in the upper left of page
 
   ### License
     MIT License
  
   ### Contributing
-    Bootcamp activities for Express found in Unit 11
+    Bootcamp activities for Express found in Unit 17
 
   ### Tests
     Perform all actions as described above in Usage
